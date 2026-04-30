@@ -1,6 +1,6 @@
 import {Typography, Button} from "@material-ui/core"
 import {styled} from "@material-ui/core"
-import {useState, useEffect} from "react"
+import React, {useState, useEffect} from "react"
 import "./app.css"
 
 import {GoLinksList} from "./GoLinksList"
